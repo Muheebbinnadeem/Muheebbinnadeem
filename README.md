@@ -160,14 +160,20 @@ Founded in **May 2026** in Lahore, **ByteX Solution** delivers end-to-end digita
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muheebbinnadeem&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=10b981&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" alt="Muheeb's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muheebbinnadeem&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=10b981&text_color=e2e8f0&border_color=1e293b" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muheebbinnadeem&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=10b981&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" alt="Muheeb Bin Nadeem Khan GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muheebbinnadeem&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=10b981&text_color=e2e8f0&border_color=1e293b" alt="Muheeb Bin Nadeem Khan Top Programming Languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Muheebbinnadeem&theme=tokyonight&background=0d1117&border=1e293b&stroke=10b981&ring=10b981&fire=38bdf8&currStreakLabel=10b981" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Muheebbinnadeem&theme=tokyonight&background=0d1117&border=1e293b&stroke=10b981&ring=10b981&fire=38bdf8&currStreakLabel=10b981" alt="Muheeb Bin Nadeem Khan GitHub Contribution Streak" />
 
 </div>
+
+---
+
+## 🏷️ SEO Keywords & Search Topics
+
+`muheeb-bin-nadeem-khan` • `muheebbinnadeem` • `bytex-solution` • `invoice-x` • `mern-stack-developer-pakistan` • `full-stack-developer-lahore` • `nextjs-typescript-engineer` • `ai-rag-chatbot-developer` • `pos-erp-software-pakistan` • `flutter-mobile-app-developer` • `ethical-hacking-gold-medalist` • `kali-linux-biometric-facelock` • `windows-11-kali-theme` • `made-by-muheeb`
 
 ---
 
