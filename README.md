@@ -4,7 +4,7 @@
 
 ### Full-Stack MERN & AI Engineer • Founder & Operational Manager @ [ByteX Solution](https://bytexsolution.com) • Ethical Hacking Gold Medalist • CS Educator
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Muheebbinnadeem.site-047857?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muheebbinnadeem.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Muheebbinnadeem.site-047857?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muheebbinnadeem.cv/)
 [![ByteX Solution](https://img.shields.io/badge/Agency-ByteX%20Solution-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://bytexsolution.com)
 [![Invoice X](https://img.shields.io/badge/Product-Invoice%20X-0284C7?style=for-the-badge&logo=stripe&logoColor=white)](https://invoicex-gamma.vercel.app)
 [![Email](https://img.shields.io/badge/Email-muheeb.3743k%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muheeb.3743k@gmail.com)
