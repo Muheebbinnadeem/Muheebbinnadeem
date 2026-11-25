@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Muheebbinnadeem.cv-047857?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muheebbinnadeem.cv)
 [![ByteX Solution](https://img.shields.io/badge/Agency-ByteX%20Solution-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://bytexsolution.com)
-[![Invoice X](https://img.shields.io/badge/Product-Invoice%20X-0284C7?style=for-the-badge&logo=stripe&logoColor=white)](https://invoicex-gamma.vercel.app)
+[![Invoice X](https://img.shields.io/badge/Product-Invoice%20X-0284C7?style=for-the-badge&logo=stripe&logoColor=white)](https://invoicex.bytexsolution.com)
 [![Email](https://img.shields.io/badge/Email-muheeb.3743k%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muheeb.3743k@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20307%204171882-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923074171882)
 
@@ -23,7 +23,7 @@
 I am a **Software Engineer, Full-Stack MERN & AI Developer, Cybersecurity Specialist, and Educator** based in Lahore, Pakistan. I build production-grade **multi-tenant SaaS platforms, POS & ERP systems, AI/RAG applications, e-commerce storefronts, and native Linux biometric security tools**.
 
 - 🏢 **Founder & Operational Manager at [ByteX Solution](https://bytexsolution.com)** — Leading a full-service IT agency (Web & Mobile Engineering, Cloud VPS & Hosting, Domains, AI Automation, SEO & Paid Ads) and the **ByteX Solution Training Institute**.
-- 🧾 **Creator of [Invoice X](https://invoicex-gamma.vercel.app)** *(Private / Proprietary Product)* — A flagship multi-tenant invoicing, POS, inventory, CRM & accounting platform spanning Node.js/Express, React/TypeScript, Flutter mobile, and Supabase PostgreSQL.
+- 🧾 **Creator of [Invoice X](https://invoicex.bytexsolution.com)** *(Private Product)* — A flagship multi-tenant invoicing, POS, inventory, CRM & accounting platform spanning Node.js/Express, React/TypeScript, Flutter mobile, and Supabase PostgreSQL.
 - ⚛️ **MERN Stack & Full-Stack Specialist** — Engineering end-to-end systems with **MongoDB, Express.js, React.js, Node.js, Next.js, TypeScript, FastAPI, Flask, Flutter, and PHP 8**.
 - 🤖 **AI / GenAI & RAG Builder** — Working with LLMs, Embeddings, LangChain, ChromaDB, Hugging Face (Mistral-7B), OpenAI, Ollama, and TensorFlow.
 - 🛡️ **Cybersecurity & Linux Systems** — **Certified Ethical Hacking (PFTP) Gold Medalist**, CodeAlpha Cybersecurity Intern, and author of native C PAM + AES-256-GCM biometric tools for Kali Linux.
@@ -59,7 +59,7 @@ Founded in **May 2026** in Lahore, **ByteX Solution** delivers end-to-end digita
 - **ByteX Super Admin Web Panel (`React + Vite + Tailwind CSS + TypeScript`)**: Manages tenants/companies, users, feature catalog & per-user entitlements, plans, manual payment verification, templates, announcements, coupons, backups, and audit logs.
 - **Offline-First Mobile App (`Flutter + Dart + Riverpod + SQLite`)**: Implements **30 full screens** with instant local SQLite draft autosave, debounced server sync, conflict resolution sheet, and multi-page PDF preview & sharing (APK built & packaged).
 
-### 2. Invoice X Standalone Billing, POS & Inventory Edition *(Private Product • [Live Demo](https://invoicex-gamma.vercel.app))*
+### 2. Invoice X Standalone Billing, POS & Inventory Edition *([invoicex.bytexsolution.com](https://invoicex.bytexsolution.com))*
 - Complete **Invoices, Estimates/Quotations, Official Payment Receipts, Customer Ledger, Product Catalog, Built-in POS & Inventory Stock Management**.
 - **Interactive Print & Export**: Multiple templates (`Classic Blue`, `Dark Slate`, `Woodcraft`), High-Res PNG & PDF export (`html2canvas` + `jsPDF`), WhatsApp receipt sharing, on-screen touch/mouse **Signature Drawing** + stamp upload, and automatic **PKR Amount-in-Words** (`numberToWordsPKR`).
 - **Flexible Persistence**: Works 100% offline via `LocalStorage` with optional cloud sync via **Supabase** or **Neon Serverless PostgreSQL** + **Vercel Functions** / **cPanel Node.js**.
@@ -104,6 +104,7 @@ Founded in **May 2026** in Lahore, **ByteX Solution** delivers end-to-end digita
 | [**`diet`** *(VitalNutri AI)*](https://github.com/Muheebbinnadeem/diet) | `MERN Stack` `MongoDB` `Express` `React` `Node.js` | AI Diet Management System with JWT auth, BMI/BMR/TDEE calculators, USDA food search, Mistral-7B AI coach, Recharts & PDF/CSV reports |
 | [**`leaf-doctor-ai`**](https://github.com/Muheebbinnadeem/leaf-doctor-ai) | `TypeScript` `TensorFlow` `Python` | AI-powered plant leaf disease detection & classification web app ([Live](http://leafdet.muheebbinnadeem.site/)) |
 | [**`Project-ai`**](https://github.com/Muheebbinnadeem/Project-ai) | `TypeScript` `React` `AI` `Vite` | **PGCAI** — Smart AI Student & Teacher Campus Portal ([Live](https://pgcai.vercel.app)) |
+| [**`PGC Student Consulting`**](https://github.com/genaaiveo-art/college-project) | `MERN Stack` `MongoDB` `Express` `React` | Full-stack MERN student consulting & academic guidance portal |
 | [**`CodeAlpha-CyberSecurity-Task1`**](https://github.com/Muheebbinnadeem/CodeAlpha-CyberSecurity-Task1) | `Python` `Scapy` | Live network packet sniffer capturing IPs, ports & protocols with PCAP export for Wireshark |
 | [**`CodeAlpha-Task2-Phishing-Awareness`**](https://github.com/Muheebbinnadeem/CodeAlpha-Task2-Phishing-Awareness) | `Python` `CLI` | Interactive terminal-based Phishing Awareness Training & quiz engine |
 
@@ -115,15 +116,15 @@ Founded in **May 2026** in Lahore, **ByteX Solution** delivers end-to-end digita
 
 | Project | Category | Stack & Key Architecture |
 |---|---|---|
-| **Invoice X (SaaS + POS & Inventory)** | `Private SaaS / POS` | Express/TS + `Decimal.js` + `pdfkit` + Cloudflare R2 + React Super Admin + **30-screen Flutter Mobile App** + Supabase RLS ([Live](https://invoicex-gamma.vercel.app)) |
-| **Restaurant ERP & POS** | `POS / ERP` | React 19 + TypeScript + Express 5 + WebSockets + SQLite + Electron Desktop + Capacitor Android + Biometrics & Payroll |
+| [**Invoice X (SaaS + POS & Inventory)**](https://invoicex.bytexsolution.com) | `SaaS / POS` | Express/TS + `Decimal.js` + `pdfkit` + Cloudflare R2 + React Super Admin + **30-screen Flutter Mobile App** + Supabase RLS |
+| [**Restaurant ERP & POS**](https://octopizzas.bytexsolution.com) | `POS / ERP` | React 19 + TypeScript + Express 5 + WebSockets + SQLite + Electron Desktop + Capacitor Android + Biometrics & Payroll |
 | **PAK Mobile x Accessories Aura** | `POS / Mobile Shop ERP` | Centralized **MongoDB** (`Decimal128`) + Express/TS API + **Next.js 14 Web Dashboard** + **Native Android Jetpack Compose** app |
 | **WorkshopFlow (`v1.6.0`)** | `PWA / HR & Payroll` | PHP 8 PWA with QR attendance scanner, staff/manager/admin portals, advances, expenses, payroll & backups |
-| **PGC Student Consulting System** | `MERN Stack` | Full-stack MongoDB, Express, React & Node.js student consulting & guidance platform |
+| [**PGC Student Consulting System**](https://github.com/genaaiveo-art/college-project) | `MERN Stack` | Full-stack MongoDB, Express, React & Node.js student consulting & guidance platform |
 | **Document + Website RAG Chatbot** | `GenAI / RAG` | Streamlit + LangChain + Groq LLM + HuggingFace Sentence Transformers + ChromaDB vector search (PDF/DOCX/PPTX/Excel/URLs) |
 | **NOVENTRA SLUTIONS LLC** | `E-Commerce` | Next.js 15 + React 19 + TypeScript + Supabase PostgreSQL + Stripe Checkout & Webhooks |
 | **3D Developer Portfolio** | `Creative WebGL` | React + TypeScript + Three.js (`@react-three/fiber`, `drei`, `rapier`) + GSAP animations |
-| **Client Web & E-Commerce Portals** | `Agency Delivery` | ByteX Solution (`bytexsolution.com`), Haris Times (PHP+SQLite News CMS), GreenChip Travel, Tiger Group, Flytime Immigration, STEM Global, Delta Systems, Asif Trading, D'Samz & Co, Accessories Aura, Al-Nayyer Wood Work, Am AI Study Companion |
+| **Client Web & E-Commerce Portals** | `Agency Delivery` | [ByteX Solution](https://bytexsolution.com), [Haris Times](https://haristimes.com), [Tiger Group](http://tigergroupofcompanies.com), [Asif Trading](https://asiftrading.com.pk), [Al-Nayyer Wood Work](https://alnayyerwoodwork.com), [QR Folio Dash](https://qr-folio-dash.lovable.app), GreenChip Travel, Flytime Immigration, STEM Global, Delta Systems, Accessories Aura, D'Samz & Co, Am AI Study Companion |
 
 ---
 
