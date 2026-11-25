@@ -104,7 +104,6 @@ Founded in **May 2026** in Lahore, **ByteX Solution** delivers end-to-end digita
 | [**`diet`** *(VitalNutri AI)*](https://github.com/Muheebbinnadeem/diet) | `MERN Stack` `MongoDB` `Express` `React` `Node.js` | AI Diet Management System with JWT auth, BMI/BMR/TDEE calculators, USDA food search, Mistral-7B AI coach, Recharts & PDF/CSV reports |
 | [**`leaf-doctor-ai`**](https://github.com/Muheebbinnadeem/leaf-doctor-ai) | `TypeScript` `TensorFlow` `Python` | AI-powered plant leaf disease detection & classification web app ([Live](http://leafdet.muheebbinnadeem.site/)) |
 | [**`Project-ai`**](https://github.com/Muheebbinnadeem/Project-ai) | `TypeScript` `React` `AI` `Vite` | **PGCAI** — Smart AI Student & Teacher Campus Portal ([Live](https://pgcai.vercel.app)) |
-| [**`PGC Student Consulting`**](https://github.com/genaaiveo-art/college-project) | `MERN Stack` `MongoDB` `Express` `React` | Full-stack MERN student consulting & academic guidance portal |
 | [**`CodeAlpha-CyberSecurity-Task1`**](https://github.com/Muheebbinnadeem/CodeAlpha-CyberSecurity-Task1) | `Python` `Scapy` | Live network packet sniffer capturing IPs, ports & protocols with PCAP export for Wireshark |
 | [**`CodeAlpha-Task2-Phishing-Awareness`**](https://github.com/Muheebbinnadeem/CodeAlpha-Task2-Phishing-Awareness) | `Python` `CLI` | Interactive terminal-based Phishing Awareness Training & quiz engine |
 
@@ -117,14 +116,13 @@ Founded in **May 2026** in Lahore, **ByteX Solution** delivers end-to-end digita
 | Project | Category | Stack & Key Architecture |
 |---|---|---|
 | [**Invoice X (SaaS + POS & Inventory)**](https://invoicex.bytexsolution.com) | `SaaS / POS` | Express/TS + `Decimal.js` + `pdfkit` + Cloudflare R2 + React Super Admin + **30-screen Flutter Mobile App** + Supabase RLS |
-| [**Restaurant ERP & POS**](https://octopizzas.bytexsolution.com) | `POS / ERP` | React 19 + TypeScript + Express 5 + WebSockets + SQLite + Electron Desktop + Capacitor Android + Biometrics & Payroll |
+| **Restaurant ERP & POS** | `POS / ERP` | React 19 + TypeScript + Express 5 + WebSockets + SQLite + Electron Desktop + Capacitor Android + Biometrics & Payroll |
 | **PAK Mobile x Accessories Aura** | `POS / Mobile Shop ERP` | Centralized **MongoDB** (`Decimal128`) + Express/TS API + **Next.js 14 Web Dashboard** + **Native Android Jetpack Compose** app |
 | **WorkshopFlow (`v1.6.0`)** | `PWA / HR & Payroll` | PHP 8 PWA with QR attendance scanner, staff/manager/admin portals, advances, expenses, payroll & backups |
-| [**PGC Student Consulting System**](https://github.com/genaaiveo-art/college-project) | `MERN Stack` | Full-stack MongoDB, Express, React & Node.js student consulting & guidance platform |
 | **Document + Website RAG Chatbot** | `GenAI / RAG` | Streamlit + LangChain + Groq LLM + HuggingFace Sentence Transformers + ChromaDB vector search (PDF/DOCX/PPTX/Excel/URLs) |
 | **NOVENTRA SLUTIONS LLC** | `E-Commerce` | Next.js 15 + React 19 + TypeScript + Supabase PostgreSQL + Stripe Checkout & Webhooks |
 | **3D Developer Portfolio** | `Creative WebGL` | React + TypeScript + Three.js (`@react-three/fiber`, `drei`, `rapier`) + GSAP animations |
-| **Client Web & E-Commerce Portals** | `Agency Delivery` | [ByteX Solution](https://bytexsolution.com), [Haris Times](https://haristimes.com), [Tiger Group](http://tigergroupofcompanies.com), [Asif Trading](https://asiftrading.com.pk), [Al-Nayyer Wood Work](https://alnayyerwoodwork.com), [QR Folio Dash](https://qr-folio-dash.lovable.app), GreenChip Travel, Flytime Immigration, STEM Global, Delta Systems, Accessories Aura, D'Samz & Co, Am AI Study Companion |
+| **Client Web & E-Commerce Portals** | `Agency Delivery` | [ByteX Solution](https://bytexsolution.com), [GreenChip Travel](https://greenchiptravelandtours.com), [Tiger Group](http://tigergroupofcompanies.com), [Delta Systems](https://deltasystemspvtltd.com/), [D'Samz & Co](https://dsamzandco.com), [Asif Trading](https://asiftrading.com.pk), [Al-Nayyer Wood Work](https://alnayyerwoodwork.com), Flytime Immigration, STEM Global, Accessories Aura, Am AI Study Companion |
 
 ---
 

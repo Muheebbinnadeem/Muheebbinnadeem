@@ -16,7 +16,7 @@ A structured directory of all open-source repositories, ByteX Solution flagship 
   - **Live:** [invoicex.bytexsolution.com](https://invoicex.bytexsolution.com)
   - Invoices, Estimates/Quotations, Official Payment Receipts, Customer Ledger, Product Catalog, Built-in POS & Inventory Stock Management, Touch/Mouse Signature Drawing, PKR Amount-in-Words (`numberToWordsPKR`), PNG/PDF export, LocalStorage + optional Supabase / Neon PostgreSQL sync.
 
-### 🍽️ Restaurant ERP & POS — [octopizzas.bytexsolution.com](https://octopizzas.bytexsolution.com)
+### 🍽️ Restaurant ERP & POS
 - **Stack:** React 19, TypeScript, Express 5, WebSockets (`ws`), SQLite, Electron Desktop, Capacitor Android, Recharts
 - **Scope:** Multi-surface Restaurant ERP & Point-of-Sale system with real-time WebSocket order/kitchen updates, transactional SQLite ledger, hardware integration, biometric attendance, payroll/accounting workflows, and desktop + Android shells.
 
@@ -39,7 +39,6 @@ A structured directory of all open-source repositories, ByteX Solution flagship 
 | Project | Stack | Description | Link |
 |---|---|---|---|
 | **VitalNutri AI (`diet`)** | MongoDB, Express, React, Node.js, JWT, Mistral-7B, Recharts, jsPDF | AI Diet Management System with BMI/BMR/TDEE calculators, USDA food search, calorie deficit engine, water tracker, AI nutrition coach & PDF/CSV reports | [`Muheebbinnadeem/diet`](https://github.com/Muheebbinnadeem/diet) |
-| **PGC Student Consulting System** | MongoDB, Express, React, Node.js, Tailwind CSS | Full-stack MERN student consulting and academic guidance portal for Punjab Group of Colleges | [`genaaiveo-art/college-project`](https://github.com/genaaiveo-art/college-project) |
 | **Document + Website RAG Chatbot** | Python, Streamlit, LangChain, Groq, Sentence Transformers, ChromaDB | Multi-format RAG chatbot ingesting PDF, DOCX, PPTX, Excel, CSV & live websites into Chroma vector store | Local Workspace (`RAG_project`) |
 | **PGCAI (`Project-ai`)** | TypeScript, React, Vite, Supabase, AI | Punjab College AI Student & Teacher Portal deployed on Vercel | [`Project-ai`](https://github.com/Muheebbinnadeem/Project-ai) / [pgcai.vercel.app](https://pgcai.vercel.app) |
 | **Leaf Doctor AI** | TypeScript, HTML5/CSS3, TensorFlow/TF.js, Python | AI-powered plant leaf disease image classification & instant diagnosis | [`leaf-doctor-ai`](https://github.com/Muheebbinnadeem/leaf-doctor-ai) / [Live](http://leafdet.muheebbinnadeem.site/) |
@@ -64,17 +63,15 @@ A structured directory of all open-source repositories, ByteX Solution flagship 
 |---|---|---|---|
 | **ByteX Solution Platform** | IT Agency & Cloud | React, TypeScript, Vite, Tailwind, Supabase, Remotion | Agency storefront, Domain Search, Cloud Hosting/VPS catalog, LMS Courses, Blog, Reseller & Client Dashboards ([bytexsolution.com](https://bytexsolution.com)) |
 | **3D Developer Portfolio** | Personal Portfolio | React, TypeScript, Three.js (`R3F`), GSAP | Interactive 3D WebGL portfolio experience |
-| **Haris Times** | News & Publishing | PHP 8, PDO SQLite | Upload-and-go news & editorial CMS with featured articles, authors, categories & admin panel ([haristimes.com](https://haristimes.com)) |
-| **GreenChip Travel & Tours** | Travel & Ticketing | Web & Booking Portal | International flight, hotel, tour & visa inquiry platform |
+| **GreenChip Travel & Tours** | Travel & Ticketing | Web & Booking Portal | International flight, hotel, tour & visa inquiry platform ([greenchiptravelandtours.com](https://greenchiptravelandtours.com)) |
 | **Tiger Group of Companies** | Corporate Conglomerate | PHP, Custom CSS/JS, Admin CMS | Multi-sector corporate portal — Visit Visas, Umrah, Air Ticketing, Tours, Building & E-Stamp ([tigergroupofcompanies.com](http://tigergroupofcompanies.com)) |
 | **Flytime Immigration Consultants** | Immigration & Study Abroad | PHP, Custom Admin & API | Study abroad, PR immigration, visit visas, tours & Umrah consultancy portal |
 | **STEM Global Consultants** | Education Consultancy | PHP 8 Strict Types, PDO, Admin CMS | Study abroad admissions portal with dynamic country pages & lead submission |
-| **Delta Systems Pvt Ltd** | Immigration & Visa | HTML5, CSS3, JS | Study abroad & visit visa corporate site (Gulberg, Lahore) |
+| **Delta Systems Pvt Ltd** | Immigration & Visa | HTML5, CSS3, JS | Study abroad & visit visa corporate site — Gulberg, Lahore ([deltasystemspvtltd.com](https://deltasystemspvtltd.com/)) |
 | **Accessories Aura (`aa` / `aa2`)** | E-Commerce | PHP, AJAX Cart, JSON Store, Admin CMS | Full online store with cart, deals, categories, orders, visits & SEO sitemap |
-| **D'Samz & Co** | Luxury Jewellery | PHP, Custom CSS/JS, Admin CMS | Luxury jewellery e-commerce with bespoke orders, collection & story pages |
+| **D'Samz & Co** | Luxury Jewellery | PHP, Custom CSS/JS, Admin CMS | Luxury jewellery e-commerce with bespoke orders, collection & story pages ([dsamzandco.com](https://dsamzandco.com)) |
 | **Asif Trading Lahore** | Kitchen & Hardware B2B | PHP, Admin CMS, JSON Catalog | Importer storefront for Blum Austria slides & Wellmax kitchen hardware ([asiftrading.com.pk](https://asiftrading.com.pk)) |
 | **AHK Store** | E-Commerce | PHP, JSON Catalog, Admin CMS | Online store with category filtering & order management |
 | **Al-Nayyer Wood Work** | Woodwork & Interior | PHP, Custom JS/CSS, Admin CMS | Service showcase, gallery, uploads & inquiry management ([alnayyerwoodwork.com](https://alnayyerwoodwork.com)) |
 | **Maaz Shaikh Portfolio** | Personal Branding | PHP, Responsive UI | Social Media Manager & Content Strategist portfolio + contact handler |
-| **QR Folio Dash** | SaaS / Dashboard | TypeScript, TanStack Start, Vite | Modern QR portfolio dashboard application ([qr-folio-dash.lovable.app](https://qr-folio-dash.lovable.app)) |
 | **Student Registration Records** | Education Utility | PHP, HTML/CSS | Student record creation & registration management |
