@@ -12,12 +12,12 @@ A structured directory of all open-source repositories, ByteX Solution flagship 
   - **Backend (`Node.js + Express + TypeScript`)**: `/v1` REST API, `Decimal.js` calculation engine, draft autosave & conflict detection, atomic finalization, Cloudflare R2 signed URLs, multi-page PDF rendering (`pdfkit`), background job scheduler, Vitest E2E suite.
   - **Admin Panel (`React + Vite + Tailwind + TypeScript`)**: ByteX Solution Super Admin panel for tenants, users, plans, entitlements, manual payments, templates, tickets, coupons, and audit logs.
   - **Mobile (`Flutter + Dart + Riverpod + SQLite`)**: Offline-first 30-screen Android app with SQLite autosave, debounced sync, conflict resolution, and PDF sharing.
-- **Edition B (Standalone Invoicing, POS & Inventory App):**
-  - **Repo:** [`bytexsolution/invoicex`](https://github.com/bytexsolution/invoicex) | **Live:** [invoicex-gamma.vercel.app](https://invoicex-gamma.vercel.app)
+- **Edition B (Standalone Invoicing, POS & Inventory App — Private Product):**
+  - **Live:** [invoicex-gamma.vercel.app](https://invoicex-gamma.vercel.app)
   - Invoices, Estimates/Quotations, Official Payment Receipts, Customer Ledger, Product Catalog, Built-in POS & Inventory Stock Management, Touch/Mouse Signature Drawing, PKR Amount-in-Words (`numberToWordsPKR`), PNG/PDF export, LocalStorage + optional Supabase / Neon PostgreSQL sync.
 
-### 🍽️ ByteX Restaurant ERP & POS (`octo` / `king`)
-- **Stack:** React 19, TypeScript, Express 5, WebSockets (`ws`), SQLite (`bytex.sqlite`), Electron Desktop, Capacitor Android, Recharts
+### 🍽️ Restaurant ERP & POS (`octo` / `king`)
+- **Stack:** React 19, TypeScript, Express 5, WebSockets (`ws`), SQLite, Electron Desktop, Capacitor Android, Recharts
 - **Scope:** Multi-surface Restaurant ERP & Point-of-Sale system with real-time WebSocket order/kitchen updates, transactional SQLite ledger, hardware integration, biometric attendance, payroll/accounting workflows, and desktop + Android shells.
 
 ### 📱 PAK Mobile x Accessories Aura
@@ -41,7 +41,7 @@ A structured directory of all open-source repositories, ByteX Solution flagship 
 | **VitalNutri AI (`diet`)** | MongoDB, Express, React, Node.js, JWT, Mistral-7B, Recharts, jsPDF | AI Diet Management System with BMI/BMR/TDEE calculators, USDA food search, calorie deficit engine, water tracker, AI nutrition coach & PDF/CSV reports | [`Muheebbinnadeem/diet`](https://github.com/Muheebbinnadeem/diet) |
 | **PGC Student Consulting System** | MongoDB, Express, React, Node.js, Tailwind CSS | Full-stack MERN student consulting and academic guidance portal for Punjab Group of Colleges | Local Workspace (`college-project`) |
 | **Document + Website RAG Chatbot** | Python, Streamlit, LangChain, Groq, Sentence Transformers, ChromaDB | Multi-format RAG chatbot ingesting PDF, DOCX, PPTX, Excel, CSV & live websites into Chroma vector store | Local Workspace (`RAG_project`) |
-| **PGCAI (`Project-ai` / `pgcai`)** | TypeScript, React, Vite, Supabase, AI | Punjab College AI Student & Teacher Portal deployed on Vercel | [`Project-ai`](https://github.com/Muheebbinnadeem/Project-ai) / [pgcai.vercel.app](https://pgcai.vercel.app) |
+| **PGCAI (`Project-ai`)** | TypeScript, React, Vite, Supabase, AI | Punjab College AI Student & Teacher Portal deployed on Vercel | [`Project-ai`](https://github.com/Muheebbinnadeem/Project-ai) / [pgcai.vercel.app](https://pgcai.vercel.app) |
 | **Leaf Doctor AI** | TypeScript, HTML5/CSS3, TensorFlow/TF.js, Python | AI-powered plant leaf disease image classification & instant diagnosis | [`leaf-doctor-ai`](https://github.com/Muheebbinnadeem/leaf-doctor-ai) / [Live](http://leafdet.muheebbinnadeem.site/) |
 | **Am Ai — Study Companion** | PHP, MySQL, HTML5, CSS3, JavaScript | Web-based AI study companion with auth, chat & SQL persistence | Local Workspace (`htdocs/am`) |
 

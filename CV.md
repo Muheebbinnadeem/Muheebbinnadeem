@@ -3,7 +3,7 @@
 - **Location:** Daroghawala Bund Road, Lahore, Pakistan
 - **Phone / WhatsApp:** +92-307-4171882
 - **Email:** [muheeb.3743k@gmail.com](mailto:muheeb.3743k@gmail.com)
-- **Portfolio:** [Muheebbinnadeem.site](https://muheebbinnadeem.site/)
+- **Portfolio:** [Muheebbinnadeem.cv](https://muheebbinnadeem.cv)
 - **Agency:** [ByteX Solution](https://bytexsolution.com)
 - **GitHub:** [github.com/Muheebbinnadeem](https://github.com/Muheebbinnadeem)
 
